@@ -1,5 +1,5 @@
 
-# Analytical notebook change in time-Covid
+# Analytical notebook- Change in time-Covid
 
 ## Description of the Project
 
@@ -14,8 +14,8 @@ The results below are based on just one R script which can be found in the scrip
 
 ## Main findings
 
-![Rplot](Rplot.png)
+![Rplot](Rplot.jpeg)
 
 ## Causal relationship
 
-![Rplot01](Rplot01.png)
+![Rplot01](Rplot01.jpeg)
