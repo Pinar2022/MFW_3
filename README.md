@@ -14,8 +14,8 @@ The results below are based on just one R script which can be found in the scrip
 
 ## Main findings
 
-![Rplot](Rplot.jpg)
+![Rplot](Rplot.png)
 
 ## Causal relationship
 
-![Rplot01](Rplot01.jpg)
+![Rplot01](Rplot01.png)
